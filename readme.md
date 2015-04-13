@@ -6,7 +6,7 @@ This library includes two utility classes:
 
 **SSRFTestUtility**
 
-A comprehensive test utility that fully automates execution of the following four certification tests
+A comprehensive test utility that fully automates execution of the following four certification tests:
 
   * Minimum positive fill test
   * Maximum positive fill test

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:SSRF xmlns:s="urn:us:gov:dod:standard:ssrf:3.1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <s:Loadset cls="U">
+      <s:Serial cls="U">USA::LS:e876608aeeea46</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:37.308Z</s:EntryDateTime>
+      <s:Name cls="U">R#################################################</s:Name>
+      <s:JammingChannelProfile>
+         <s:CarrierWaveform cls="U">R###################################################################################################</s:CarrierWaveform>
+         <s:FreqMin cls="U">19754617.49590132</s:FreqMin>
+         <s:Signal cls="U">R###################################################################################################</s:Signal>
+      </s:JammingChannelProfile>
+   </s:Loadset>
+</s:SSRF>

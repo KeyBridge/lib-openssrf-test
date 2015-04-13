@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:SSRF xmlns:s="urn:us:gov:dod:standard:ssrf:3.1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <s:Role cls="U">
+      <s:Serial cls="U">USA::JA:09e8dd6deb244e</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:38.667Z</s:EntryDateTime>
+      <s:Name cls="U">R#################################################</s:Name>
+   </s:Role>
+   <s:Organisation cls="U">
+      <s:Serial cls="U">USA::OR:5bd3ec9caa4a44</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:38.666Z</s:EntryDateTime>
+   </s:Organisation>
+   <s:Organisation cls="U">
+      <s:Serial cls="U">USA::OR:31e8dca726a64d</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:38.668Z</s:EntryDateTime>
+   </s:Organisation>
+   <s:Receiver cls="U">
+      <s:Serial cls="U">USA::RX:7fc85655bf5b40</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:38.661Z</s:EntryDateTime>
+      <s:Generic cls="U">Yes</s:Generic>
+   </s:Receiver>
+   <s:RFSystem cls="U">
+      <s:Serial cls="U">USA::TR:91422adf078946</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:38.664Z</s:EntryDateTime>
+   </s:RFSystem>
+   <s:RFSystem cls="U">
+      <s:Serial cls="U">USA::TR:ae7108cd382649</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:38.666Z</s:EntryDateTime>
+   </s:RFSystem>
+   <s:SSReply cls="U">
+      <s:Serial cls="U">USA::HD:dcb5e11d9d154c</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:38.663Z</s:EntryDateTime>
+      <s:ReplyingCountry cls="U">AUS</s:ReplyingCountry>
+      <s:SupportabilityCode cls="U">Pending</s:SupportabilityCode>
+      <s:EffectiveDate cls="U">2015-04-13</s:EffectiveDate>
+   </s:SSReply>
+   <s:IntfReport cls="U">
+      <s:Serial cls="U">USA::IF:039919b7089e4a</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:38.661Z</s:EntryDateTime>
+      <s:IntfStartDateTime cls="U">2015-04-13T08:30:38.662Z</s:IntfStartDateTime>
+      <s:VictimFreqMin cls="U">548704326.3530678</s:VictimFreqMin>
+   </s:IntfReport>
+   <s:JRFL cls="U">
+      <s:Serial cls="U">USA::JR:7ab9f5cca9b44e</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:38.662Z</s:EntryDateTime>
+      <s:JRFLEntry>
+         <s:ProtectionCode cls="U">Guarded</s:ProtectionCode>
+         <s:Justification cls="U">R##############################################################################################################################################################################################################################################################</s:Justification>
+      </s:JRFLEntry>
+   </s:JRFL>
+   <s:Message cls="U">
+      <s:Serial cls="U">USA::MS:a7a78c36f9a14e</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:38.659Z</s:EntryDateTime>
+      <s:DatasetRef cls="U">USA::JR:7ab9f5cca9b44e</s:DatasetRef>
+      <s:DatasetRef cls="U">USA::TR:91422adf078946</s:DatasetRef>
+      <s:DatasetRef cls="U">USA::IF:039919b7089e4a</s:DatasetRef>
+      <s:DatasetRef cls="U">USA::HD:dcb5e11d9d154c</s:DatasetRef>
+      <s:DatasetRef cls="U">USA::RX:7fc85655bf5b40</s:DatasetRef>
+   </s:Message>
+   <s:Message cls="U">
+      <s:Serial cls="U">USA::MS:80e1edad96e843</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:38.658Z</s:EntryDateTime>
+      <s:DatasetRef cls="U">USA::MS:a7a78c36f9a14e</s:DatasetRef>
+      <s:DatasetRef cls="U">USA::OR:31e8dca726a64d</s:DatasetRef>
+      <s:DatasetRef cls="U">USA::OR:5bd3ec9caa4a44</s:DatasetRef>
+      <s:DatasetRef cls="U">USA::JA:09e8dd6deb244e</s:DatasetRef>
+      <s:DatasetRef cls="U">USA::TR:ae7108cd382649</s:DatasetRef>
+   </s:Message>
+</s:SSRF>

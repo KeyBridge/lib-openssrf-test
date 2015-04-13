@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:SSRF xmlns:s="urn:us:gov:dod:standard:ssrf:3.1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <s:FEDeployment cls="U">
+      <s:Serial cls="U">USA::FD:18d77a1862d84e</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:17.698Z</s:EntryDateTime>
+      <s:FERef cls="U">USA::CN:14b920418b7345</s:FERef>
+      <s:Type cls="U">Other</s:Type>
+   </s:FEDeployment>
+</s:SSRF>

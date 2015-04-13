@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:SSRF xmlns:s="urn:us:gov:dod:standard:ssrf:3.1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <s:RadiationPlan cls="U">
+      <s:Serial cls="U">USA::RP:d986bf4e3ba34a</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:44.637Z</s:EntryDateTime>
+      <s:FreqMin cls="U">47909142.27480551</s:FreqMin>
+   </s:RadiationPlan>
+</s:SSRF>

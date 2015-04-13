@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:SSRF xmlns:s="urn:us:gov:dod:standard:ssrf:3.1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <s:Organisation cls="U">
+      <s:Serial cls="U">USA::OR:040c8aba31434d</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:41.635Z</s:EntryDateTime>
+   </s:Organisation>
+</s:SSRF>

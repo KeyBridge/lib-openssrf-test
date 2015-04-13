@@ -1,0 +1,226 @@
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+
+Running us.gov.dod.standard.ssrf._3_1.CertificationTest
+
+  PASS: Administrative Maximum Positive Fill Test
+
+  PASS: Administrative Minimum Positive Fill Test
+
+  PASS: Administrative Maximum Negative Fill Test
+
+  PASS: Administrative Minimum Negative Fill Test
+
+  PASS: Allotment Maximum Positive Fill Test
+
+  PASS: Allotment Minimum Positive Fill Test
+
+  PASS: Allotment Maximum Negative Fill Test
+
+  PASS: Allotment Minimum Negative Fill Test
+
+  PASS: Antenna Maximum Positive Fill Test
+
+  PASS: Antenna Minimum Positive Fill Test
+
+  PASS: Antenna Maximum Negative Fill Test
+
+  PASS: Antenna Minimum Negative Fill Test
+
+  PASS: Assignment Maximum Positive Fill Test
+
+  PASS: Assignment Minimum Positive Fill Test
+
+  CHECK: Assignment Maximum Negative Fill Test  Result requires manual inspection.
+          Assignment.daysOfWeek                       
+          Assignment.minutes                          
+          Assignment.years                            
+          Assignment.hours                            
+
+  PASS: Assignment Minimum Negative Fill Test
+
+  PASS: Contact Maximum Positive Fill Test
+
+  PASS: Contact Minimum Positive Fill Test
+
+  PASS: Contact Maximum Negative Fill Test
+
+  PASS: Contact Minimum Negative Fill Test
+
+  PASS: ChannelPlan Maximum Positive Fill Test
+
+  PASS: ChannelPlan Minimum Positive Fill Test
+
+  PASS: ChannelPlan Maximum Negative Fill Test
+
+  PASS: ChannelPlan Minimum Negative Fill Test
+
+  PASS: ExternalReference Maximum Positive Fill Test
+
+  PASS: ExternalReference Minimum Positive Fill Test
+
+  PASS: ExternalReference Maximum Negative Fill Test
+
+  PASS: ExternalReference Minimum Negative Fill Test
+
+  PASS: FEDeployment Maximum Positive Fill Test
+
+  PASS: FEDeployment Minimum Positive Fill Test
+
+  CHECK: FEDeployment Maximum Negative Fill Test  Result requires manual inspection.
+       #   ERR   DET Type                 FieldName                                         
+       0          ND DaysOfMonth          FEDeployment.daysOfMonth                    
+
+  PASS: FEDeployment Minimum Negative Fill Test
+
+  PASS: ForceElement Maximum Positive Fill Test
+
+  PASS: ForceElement Minimum Positive Fill Test
+
+  PASS: ForceElement Maximum Negative Fill Test
+
+  PASS: ForceElement Minimum Negative Fill Test
+
+  PASS: SSReply Maximum Positive Fill Test
+
+  PASS: SSReply Minimum Positive Fill Test
+
+  PASS: SSReply Maximum Negative Fill Test
+
+  PASS: SSReply Minimum Negative Fill Test
+
+  PASS: IntfReport Maximum Positive Fill Test
+
+  PASS: IntfReport Minimum Positive Fill Test
+
+  PASS: IntfReport Maximum Negative Fill Test
+
+  PASS: IntfReport Minimum Negative Fill Test
+
+  PASS: Role Maximum Positive Fill Test
+
+  PASS: Role Minimum Positive Fill Test
+
+  PASS: Role Maximum Negative Fill Test
+
+  PASS: Role Minimum Negative Fill Test
+
+  PASS: JRFL Maximum Positive Fill Test
+
+  PASS: JRFL Minimum Positive Fill Test
+
+  CHECK: JRFL Maximum Negative Fill Test  Result requires manual inspection.
+       #   ERR   DET Type                 FieldName                                         
+       0          ND MinSec               JRFLEntry.minutes                           
+       1          ND Years                JRFLEntry.years                             
+       2          ND Months               JRFLEntry.months                            
+       3          ND DaysOfMonth          JRFLEntry.daysOfMonth                       
+       4          ND Hours                JRFLEntry.hours                             
+       5          ND Months               JRFL.months                                 
+       6          ND DaysOfWeek           JRFLEntry.daysOfWeek                        
+       7          ND MinSec               JRFLEntry.seconds     
+
+  PASS: JRFL Minimum Negative Fill Test
+
+  PASS: Location Maximum Positive Fill Test
+
+  PASS: Location Minimum Positive Fill Test
+
+  PASS: Location Maximum Negative Fill Test
+
+  PASS: Location Minimum Negative Fill Test
+
+  PASS: Loadset Maximum Positive Fill Test
+
+  PASS: Loadset Minimum Positive Fill Test
+
+  PASS: Loadset Maximum Negative Fill Test
+
+  PASS: Loadset Minimum Negative Fill Test
+
+  PASS: Message Maximum Positive Fill Test
+
+  PASS: Message Minimum Positive Fill Test
+
+  PASS: Message Maximum Negative Fill Test
+
+  PASS: Message Minimum Negative Fill Test
+
+  PASS: Note Maximum Positive Fill Test
+
+  PASS: Note Minimum Positive Fill Test
+
+  PASS: Note Maximum Negative Fill Test
+
+  PASS: Note Minimum Negative Fill Test
+
+  PASS: Organisation Maximum Positive Fill Test
+
+  PASS: Organisation Minimum Positive Fill Test
+
+  PASS: Organisation Maximum Negative Fill Test
+
+  PASS: Organisation Minimum Negative Fill Test
+
+  PASS: RadiationPlan Maximum Positive Fill Test
+
+  PASS: RadiationPlan Minimum Positive Fill Test
+
+  PASS: RadiationPlan Maximum Negative Fill Test
+
+  PASS: RadiationPlan Minimum Negative Fill Test
+
+  PASS: Receiver Maximum Positive Fill Test
+
+  PASS: Receiver Minimum Positive Fill Test
+
+  PASS: Receiver Maximum Negative Fill Test
+
+  PASS: Receiver Minimum Negative Fill Test
+
+  PASS: Satellite Maximum Positive Fill Test
+
+  PASS: Satellite Minimum Positive Fill Test
+
+  PASS: Satellite Maximum Negative Fill Test
+
+  PASS: Satellite Minimum Negative Fill Test
+
+  PASS: SSRequest Maximum Positive Fill Test
+
+  PASS: SSRequest Minimum Positive Fill Test
+
+  PASS: SSRequest Maximum Negative Fill Test
+
+  PASS: SSRequest Minimum Negative Fill Test
+
+  PASS: TOA Maximum Positive Fill Test
+
+  PASS: TOA Minimum Positive Fill Test
+
+  PASS: TOA Maximum Negative Fill Test
+
+  PASS: TOA Minimum Negative Fill Test
+
+  PASS: RFSystem Maximum Positive Fill Test
+
+  PASS: RFSystem Minimum Positive Fill Test
+
+  PASS: RFSystem Maximum Negative Fill Test
+
+  PASS: RFSystem Minimum Negative Fill Test
+
+  PASS: Transmitter Maximum Positive Fill Test
+
+  PASS: Transmitter Minimum Positive Fill Test
+
+  PASS: Transmitter Maximum Negative Fill Test
+
+  PASS: Transmitter Minimum Negative Fill Test
+
+Tests run: 100, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 152.598 sec
+
+Results :
+
+Tests run: 100, Failures: 0, Errors: 0, Skipped: 0

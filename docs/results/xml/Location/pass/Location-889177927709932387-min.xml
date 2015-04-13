@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:SSRF xmlns:s="urn:us:gov:dod:standard:ssrf:3.1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <s:Location cls="U">
+      <s:Serial cls="U">USA::LO:df0955572a8840</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:34.973Z</s:EntryDateTime>
+      <s:Name cls="U">R###################################################################################################</s:Name>
+   </s:Location>
+</s:SSRF>

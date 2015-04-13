@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:SSRF xmlns:s="urn:us:gov:dod:standard:ssrf:3.1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <s:Allotment cls="U">
+      <s:Serial cls="U">USA::AL:cedbfaefa4d24c</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:47.616Z</s:EntryDateTime>
+      <s:EffectiveDate cls="U">2015-04-13</s:EffectiveDate>
+      <s:LocationRef cls="U">USA::LO:926adefba6e14f</s:LocationRef>
+      <s:AllotFreq>
+         <s:FreqMin cls="U">333638005.827359</s:FreqMin>
+      </s:AllotFreq>
+   </s:Allotment>
+</s:SSRF>

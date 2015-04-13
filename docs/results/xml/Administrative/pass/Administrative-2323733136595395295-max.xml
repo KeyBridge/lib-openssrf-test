@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:SSRF xmlns:s="urn:us:gov:dod:standard:ssrf:3.1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <s:Role cls="U">
+      <s:Serial cls="U">USA::JA:5df50a36620443</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.256Z</s:EntryDateTime>
+      <s:Name cls="U">R#################################################</s:Name>
+   </s:Role>
+   <s:Role cls="U">
+      <s:Serial cls="U">USA::JA:aedd0455eeb947</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.251Z</s:EntryDateTime>
+      <s:Name cls="U">R#################################################</s:Name>
+   </s:Role>
+   <s:Organisation cls="U">
+      <s:Serial cls="U">USA::OR:d8ab4ac2d8e841</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.241Z</s:EntryDateTime>
+   </s:Organisation>
+   <s:ExternalReference cls="U">
+      <s:Serial cls="U">USA::EX:bd3f8c4f52174f</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.341Z</s:EntryDateTime>
+      <s:IsAttached cls="U">Yes</s:IsAttached>
+   </s:ExternalReference>
+   <s:ExternalReference cls="U">
+      <s:Serial cls="U">USA::EX:36a8a3f6623f49</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.456Z</s:EntryDateTime>
+      <s:IsAttached cls="U">No</s:IsAttached>
+   </s:ExternalReference>
+   <s:ExternalReference cls="U">
+      <s:Serial cls="U">USA::EX:e18c147689c14d</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.376Z</s:EntryDateTime>
+      <s:IsAttached cls="U">Yes</s:IsAttached>
+   </s:ExternalReference>
+   <s:Administrative cls="U" releasability="SVK CHL BFA DZA SDN KIR MOZ FSM" remarks="103 789 426 937 36 403 914 638 302" extReferences="374 37 735 645 287 123" legacyReleasability="########" quality="########" recommendedValue="########" idref="########">
+      <s:LastObservedBy cls="U" remarks="68 763 645 558 133" extReferences="668 358 665 321 179 78 900 122 521" legacyReleasability="R###########################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R#############################################" idref="R#########" availability="R#############################">R#################################################</s:LastObservedBy>
+      <s:ObservedFirstDateTime cls="U">2015-04-13T08:29:40.511Z</s:ObservedFirstDateTime>
+      <s:ObservedLastDateTime cls="U">2015-04-13T08:29:40.589Z</s:ObservedLastDateTime>
+      <s:ApprovedBy cls="U" remarks="253 855 666 261 59 407" extReferences="799 997 711 878 523" legacyReleasability="R###############################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R####################################" idref="R#########" availability="R#############################">R#################################################</s:ApprovedBy>
+      <s:ApprovedDateTime cls="U">2015-04-13T08:29:40.461Z</s:ApprovedDateTime>
+      <s:Redacted cls="U">Yes</s:Redacted>
+      <s:Serial cls="U">USA::AD:969f0f2a671b43</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:39.824Z</s:EntryDateTime>
+      <s:EntryBy cls="U">USA::CN:2be547f05d7446</s:EntryBy>
+      <s:Owner cls="U">USA::CN:acb5e280509b44</s:Owner>
+      <s:LastChangeDateTime cls="U">2015-04-13T08:29:40.561Z</s:LastChangeDateTime>
+      <s:LastChangeBy cls="U">USA::CN:a174c1f30bd845</s:LastChangeBy>
+      <s:LastReviewDate cls="U">2015-04-13</s:LastReviewDate>
+      <s:LastReviewBy cls="U">USA::CN:5fbc53b3dd6d41</s:LastReviewBy>
+      <s:ModAllowedBy cls="U">USA::CN:9cdd8103c69541</s:ModAllowedBy>
+      <s:State cls="U">Active</s:State>
+      <s:Description cls="U" remarks="512" extReferences="353 783 366" legacyReleasability="R#############" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R#############################" idref="R#########" availability="R#############################">R###################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################</s:Description>
+      <s:SecurityClass>
+         <s:ClsAuthority cls="U" remarks="966" extReferences="428 278 224" legacyReleasability="R###############" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R#############################################################" idref="R#########" availability="R#############################">R#############################</s:ClsAuthority>
+         <s:SourceClsDate cls="U">2015-04-13</s:SourceClsDate>
+         <s:ClsOrg cls="U" remarks="0 103 974 457 351 386 177 271 105" extReferences="1001 551 541 935 663 72 193 74 981" legacyReleasability="R########" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R#############" idref="R#########" availability="R#############################">R#############################</s:ClsOrg>
+         <s:ClsReason cls="U" remarks="395 239 685 529 431 799 979 123 62" extReferences="686 832 490 27 131 134" legacyReleasability="R######" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R#" idref="R#########" availability="R#############################">R##############</s:ClsReason>
+         <s:DeclsType cls="U" remarks="444 412 561 972 619" extReferences="258" legacyReleasability="R#################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R###########" idref="R#########" availability="R#############################">R#########</s:DeclsType>
+         <s:DeclsDate cls="U">2015-04-13</s:DeclsDate>
+         <s:DeclsEvent cls="U" remarks="103 49 715 191 473 843 845" extReferences="300" legacyReleasability="R####" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R##############################################" idref="R#########" availability="R#############################">R#######################################################################################################################################################################################################</s:DeclsEvent>
+         <s:Downgrade>
+            <s:Downcls cls="U">R</s:Downcls>
+            <s:Date cls="U">2015-04-13</s:Date>
+            <s:DowngradeInfo cls="U" remarks="733 232 159 131 825 691" extReferences="1001 576 394 562 20 721 706 808 912" legacyReleasability="R##########################################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R###################################" idref="R#########" availability="R#############################">R#######################################################################################################################################################################################################</s:DowngradeInfo>
+         </s:Downgrade>
+         <s:Downgrade>
+            <s:Downcls cls="U">R</s:Downcls>
+            <s:Date cls="U">2015-04-13</s:Date>
+            <s:DowngradeInfo cls="U" remarks="17 881 812" extReferences="717 158 697 837 797 830 346" legacyReleasability="R###################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R#######################################" idref="R#########" availability="R#############################">R#######################################################################################################################################################################################################</s:DowngradeInfo>
+         </s:Downgrade>
+         <s:Downgrade>
+            <s:Downcls cls="U">U</s:Downcls>
+            <s:Date cls="U">2015-04-13</s:Date>
+            <s:DowngradeInfo cls="U" remarks="651 75" extReferences="409 310 296 230 453 345 180" legacyReleasability="R############################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R##############################################" idref="R#########" availability="R#############################">R#######################################################################################################################################################################################################</s:DowngradeInfo>
+         </s:Downgrade>
+         <s:ClsDerived>
+            <s:Date cls="U">2015-04-13</s:Date>
+            <s:Title cls="U" remarks="139 754 556 228 602" extReferences="53 413 935 797 269" legacyReleasability="R" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R####" idref="R#########" availability="R#############################">R#############################</s:Title>
+            <s:Org cls="U" remarks="137 321 202 574 753 268 344" extReferences="886 1011 657" legacyReleasability="R##########################################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R#########################" idref="R#########" availability="R#############################">R#############################</s:Org>
+         </s:ClsDerived>
+         <s:ClsDerived>
+            <s:Date cls="U">2015-04-13</s:Date>
+            <s:Title cls="U" remarks="516 969 444 545 75 499" extReferences="771 650 989 297 486 589 329 482" legacyReleasability="R##############" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R##################################" idref="R#########" availability="R#############################">R#############################</s:Title>
+            <s:Org cls="U" remarks="326 529 309 98 82 640 673 363 659" extReferences="593 424 201 127 638 439" legacyReleasability="R######################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R##########################################################" idref="R#########" availability="R#############################">R#############################</s:Org>
+         </s:ClsDerived>
+         <s:ClsDerived>
+            <s:Date cls="U">2015-04-13</s:Date>
+            <s:Title cls="U" remarks="608 529 936 501 333 72 166 165" extReferences="392 83 589" legacyReleasability="R##################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R##########################################################" idref="R#########" availability="R#############################">R#############################</s:Title>
+            <s:Org cls="U" remarks="453 657 620" extReferences="462 370 677 724" legacyReleasability="R##############" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R#########################################################" idref="R#########" availability="R#############################">R#############################</s:Org>
+         </s:ClsDerived>
+         <s:ClsDerived>
+            <s:Date cls="U">2015-04-13</s:Date>
+            <s:Title cls="U" remarks="654 800" extReferences="214" legacyReleasability="R##############################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R###############" idref="R#########" availability="R#############################">R#############################</s:Title>
+            <s:Org cls="U" remarks="476 531 871 470 660 500 280 452 62" extReferences="19 447 364 949 91 61 302" legacyReleasability="R##########################################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R#################################################" idref="R#########" availability="R#############################">R#############################</s:Org>
+         </s:ClsDerived>
+         <s:ClsDerived>
+            <s:Date cls="U">2015-04-13</s:Date>
+            <s:Title cls="U" remarks="394 277 336 317 14 464 194" extReferences="567 581 992" legacyReleasability="R#######################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R########" idref="R#########" availability="R#############################">R#############################</s:Title>
+            <s:Org cls="U" remarks="103" extReferences="532 306 651 491 921 618 584 950 743" legacyReleasability="R############################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R###############" idref="R#########" availability="R#############################">R#############################</s:Org>
+         </s:ClsDerived>
+         <s:ClsDerived>
+            <s:Date cls="U">2015-04-13</s:Date>
+            <s:Title cls="U" remarks="259 760 510 751 243" extReferences="34 479 670 714 520 724" legacyReleasability="R###" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R############" idref="R#########" availability="R#############################">R#############################</s:Title>
+            <s:Org cls="U" remarks="139 415" extReferences="457" legacyReleasability="R#################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R##########################" idref="R#########" availability="R#############################">R#############################</s:Org>
+         </s:ClsDerived>
+      </s:SecurityClass>
+      <s:CaseNum>
+         <s:Country cls="U">SJM</s:Country>
+         <s:Type cls="U" remarks="957 828 706 242 777" extReferences="767" legacyReleasability="R##########################################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R##############################################" idref="R#########" availability="R#############################">R###################</s:Type>
+         <s:Identifier cls="U" remarks="957 406 607" extReferences="611 81 902" legacyReleasability="R#########" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R#######################" idref="R#########" availability="R#############################">R###################</s:Identifier>
+      </s:CaseNum>
+      <s:CaseNum>
+         <s:Country cls="U">CXR</s:Country>
+         <s:Type cls="U" remarks="119 940 969 460 631 845" extReferences="923 475 130 875 182 980 30" legacyReleasability="R#######################################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R###################################" idref="R#########" availability="R#############################">R###################</s:Type>
+         <s:Identifier cls="U" remarks="992 27 147 965 552" extReferences="168 306 684 475 948 843 213 616 421" legacyReleasability="R####################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R#########" idref="R#########" availability="R#############################">R###################</s:Identifier>
+      </s:CaseNum>
+      <s:CaseNum>
+         <s:Country cls="U">NFK</s:Country>
+         <s:Type cls="U" remarks="84 819" extReferences="394 97 402 1014" legacyReleasability="R##################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R###########" idref="R#########" availability="R#############################">R###################</s:Type>
+         <s:Identifier cls="U" remarks="399 379" extReferences="987 92 676 656 688 811" legacyReleasability="R#####" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R###############################################" idref="R#########" availability="R#############################">R###################</s:Identifier>
+      </s:CaseNum>
+      <s:CaseNum>
+         <s:Country cls="U">COM</s:Country>
+         <s:Type cls="U" remarks="457 8 403" extReferences="325 38 140 586 366 862" legacyReleasability="R##################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R######################" idref="R#########" availability="R#############################">R###################</s:Type>
+         <s:Identifier cls="U" remarks="584" extReferences="518 769 877" legacyReleasability="R##################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R#############################################################" idref="R#########" availability="R#############################">R###################</s:Identifier>
+      </s:CaseNum>
+      <s:CaseNum>
+         <s:Country cls="U">US-NH</s:Country>
+         <s:Type cls="U" remarks="957 715 392 609 444 869 569 607 913" extReferences="100 115" legacyReleasability="R###############################################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R#########################" idref="R#########" availability="R#############################">R###################</s:Type>
+         <s:Identifier cls="U" remarks="410 152 567 611 780" extReferences="1017 429" legacyReleasability="R##########" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R###################################################" idref="R#########" availability="R#############################">R###################</s:Identifier>
+      </s:CaseNum>
+      <s:CaseNum>
+         <s:Country cls="U">OMN</s:Country>
+         <s:Type cls="U" remarks="102 273 19 770 97" extReferences="920" legacyReleasability="R#############################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R####" idref="R#########" availability="R#############################">R###################</s:Type>
+         <s:Identifier cls="U" remarks="790 364 433 333 521" extReferences="220 883 974 539 826" legacyReleasability="R##########" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R######################################" idref="R#########" availability="R#############################">R###################</s:Identifier>
+      </s:CaseNum>
+      <s:ExtReferenceRef cls="U" idx="242770">USA::CN:010702750b1f45</s:ExtReferenceRef>
+      <s:ExtReferenceRef cls="U" idx="861783">USA::CN:24f5bf54b7e140</s:ExtReferenceRef>
+      <s:ExtReferenceRef cls="U" idx="769668">USA::CN:34fb0c1079d247</s:ExtReferenceRef>
+      <s:ExtReferenceRef cls="U" idx="10334">USA::CN:8d865911e60d45</s:ExtReferenceRef>
+      <s:Remarks cls="U" idx="497382">R##############################################################</s:Remarks>
+      <s:Remarks cls="U" idx="740102">R######################</s:Remarks>
+      <s:Remarks cls="U" idx="112267">R#######################</s:Remarks>
+      <s:Remarks cls="U" idx="421027">R######################################</s:Remarks>
+      <s:Action cls="U">Data Rejected</s:Action>
+      <s:MessageRef cls="U">USA::CN:6fb1799c506f46</s:MessageRef>
+      <s:Dataset>
+         <s:Serial cls="U">USA::CN:a4a9bb85ea4247</s:Serial>
+         <s:RetireDate cls="U">2015-04-13</s:RetireDate>
+         <s:Reason cls="U" remarks="359 735 530 335 151" extReferences="481 913" legacyReleasability="R#########################################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R#####################################################" idref="R#########" availability="R#############################">R###########################</s:Reason>
+         <s:MissingRef cls="U">USA::JA:5df50a36620443</s:MissingRef>
+         <s:MissingRef cls="U">USA::OR:d8ab4ac2d8e841</s:MissingRef>
+         <s:MissingRef cls="U">USA::SR:5783b9ada8354f</s:MissingRef>
+         <s:MissingRef cls="U">USA::AN:9f078c4198324f</s:MissingRef>
+         <s:MissingRef cls="U">USA::JA:aedd0455eeb947</s:MissingRef>
+      </s:Dataset>
+      <s:Dataset>
+         <s:Serial cls="U">USA::CN:6480b423eec745</s:Serial>
+         <s:RetireDate cls="U">2015-04-13</s:RetireDate>
+         <s:Reason cls="U" remarks="988 178 146 572 914 674 60" extReferences="519 175 837 727" legacyReleasability="R######################################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R###########################" idref="R#########" availability="R#############################">R###################################################</s:Reason>
+         <s:MissingRef cls="U">USA::EX:e18c147689c14d</s:MissingRef>
+         <s:MissingRef cls="U">USA::IF:d6afb7c29ac249</s:MissingRef>
+         <s:MissingRef cls="U">USA::HD:7219a799caff43</s:MissingRef>
+         <s:MissingRef cls="U">USA::MS:86cba0bb8c314a</s:MissingRef>
+         <s:MissingRef cls="U">USA::IF:6c3102067fcf44</s:MissingRef>
+      </s:Dataset>
+      <s:Dataset>
+         <s:Serial cls="U">USA::CN:0f5a7c7c64f742</s:Serial>
+         <s:RetireDate cls="U">2015-04-13</s:RetireDate>
+         <s:Reason cls="U" remarks="237 207 614 248 311 23 978 435" extReferences="592 714 907 322 472 434 673" legacyReleasability="R############################################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R#########" idref="R#########" availability="R#############################">R#####################################################</s:Reason>
+         <s:MissingRef cls="U">USA::AN:053df69545a14b</s:MissingRef>
+         <s:MissingRef cls="U">USA::AL:dda2ce28fe4c4e</s:MissingRef>
+         <s:MissingRef cls="U">USA::FD:9d6009a636a24b</s:MissingRef>
+         <s:MissingRef cls="U">USA::SR:cca8f8518b6348</s:MissingRef>
+         <s:MissingRef cls="U">USA::AS:7908a93857a240</s:MissingRef>
+      </s:Dataset>
+      <s:Dataset>
+         <s:Serial cls="U">USA::CN:f963bd7de9f142</s:Serial>
+         <s:RetireDate cls="U">2015-04-13</s:RetireDate>
+         <s:Reason cls="U" remarks="627 808 319" extReferences="852" legacyReleasability="R###########################################################" quality="R##############################################################################################################################################################################################################################################################" recommendedValue="R###########################" idref="R#########" availability="R#############################">R#######################</s:Reason>
+         <s:MissingRef cls="U">USA::MS:e4b3722761be44</s:MissingRef>
+         <s:MissingRef cls="U">USA::EX:36a8a3f6623f49</s:MissingRef>
+         <s:MissingRef cls="U">USA::FD:ad361f0f40694f</s:MissingRef>
+         <s:MissingRef cls="U">USA::RX:8ea58675ec664d</s:MissingRef>
+         <s:MissingRef cls="U">USA::LO:9591d2292c364d</s:MissingRef>
+      </s:Dataset>
+   </s:Administrative>
+   <s:Location cls="U">
+      <s:Serial cls="U">USA::LO:9591d2292c364d</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.382Z</s:EntryDateTime>
+      <s:Name cls="U">R###################################################################################################</s:Name>
+   </s:Location>
+   <s:TOA cls="U">
+      <s:Serial cls="U">USA::TA:c320556de37c4e</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.438Z</s:EntryDateTime>
+      <s:Administration cls="U">R#################################################</s:Administration>
+      <s:FreqBand>
+         <s:FreqMin cls="U">336398209.9146054</s:FreqMin>
+         <s:FreqMax cls="U">176409929.9482158</s:FreqMax>
+      </s:FreqBand>
+   </s:TOA>
+   <s:Transmitter cls="U">
+      <s:Serial cls="U">USA::TX:21a7fb9f936d44</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.416Z</s:EntryDateTime>
+      <s:Generic cls="U">No</s:Generic>
+   </s:Transmitter>
+   <s:Receiver cls="U">
+      <s:Serial cls="U">USA::RX:8ea58675ec664d</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.387Z</s:EntryDateTime>
+      <s:Generic cls="U">Yes</s:Generic>
+   </s:Receiver>
+   <s:Antenna cls="U">
+      <s:Serial cls="U">USA::AN:053df69545a14b</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.166Z</s:EntryDateTime>
+      <s:Generic cls="U">Yes</s:Generic>
+      <s:AntType cls="U">Dipole Array</s:AntType>
+   </s:Antenna>
+   <s:Antenna cls="U">
+      <s:Serial cls="U">USA::AN:9f078c4198324f</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.245Z</s:EntryDateTime>
+      <s:Generic cls="U">Yes</s:Generic>
+      <s:AntType cls="U">Phased-Array Slotted Waveguide</s:AntType>
+   </s:Antenna>
+   <s:SSRequest cls="U">
+      <s:Serial cls="U">USA::SR:5783b9ada8354f</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.233Z</s:EntryDateTime>
+      <s:Title cls="U">R###################################################################################################</s:Title>
+   </s:SSRequest>
+   <s:SSRequest cls="U">
+      <s:Serial cls="U">USA::SR:d0871590932a4b</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.422Z</s:EntryDateTime>
+      <s:Title cls="U">R###################################################################################################</s:Title>
+   </s:SSRequest>
+   <s:SSRequest cls="U">
+      <s:Serial cls="U">USA::SR:cca8f8518b6348</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.152Z</s:EntryDateTime>
+      <s:Title cls="U">R###################################################################################################</s:Title>
+   </s:SSRequest>
+   <s:SSReply cls="U">
+      <s:Serial cls="U">USA::HD:7219a799caff43</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.292Z</s:EntryDateTime>
+      <s:ReplyingCountry cls="U">PYF</s:ReplyingCountry>
+      <s:SupportabilityCode cls="U">Supported</s:SupportabilityCode>
+      <s:EffectiveDate cls="U">2015-04-13</s:EffectiveDate>
+   </s:SSReply>
+   <s:Allotment cls="U">
+      <s:Serial cls="U">USA::AL:ac21261419c749</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.352Z</s:EntryDateTime>
+      <s:EffectiveDate cls="U">2015-04-13</s:EffectiveDate>
+      <s:LocationRef cls="U">USA::LO:26dc689089ac45</s:LocationRef>
+      <s:AllotFreq>
+         <s:FreqMin cls="U">73760508.88218023</s:FreqMin>
+      </s:AllotFreq>
+   </s:Allotment>
+   <s:Allotment cls="U">
+      <s:Serial cls="U">USA::AL:dda2ce28fe4c4e</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.192Z</s:EntryDateTime>
+      <s:EffectiveDate cls="U">2015-04-13</s:EffectiveDate>
+      <s:LocationRef cls="U">USA::LO:a5c248b214784b</s:LocationRef>
+      <s:AllotFreq>
+         <s:FreqMin cls="U">321740866.0821662</s:FreqMin>
+      </s:AllotFreq>
+   </s:Allotment>
+   <s:Allotment cls="U">
+      <s:Serial cls="U">USA::AL:175f9473c4d349</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.357Z</s:EntryDateTime>
+      <s:EffectiveDate cls="U">2015-04-13</s:EffectiveDate>
+      <s:LocationRef cls="U">USA::LO:8bea6958432a4a</s:LocationRef>
+      <s:AllotFreq>
+         <s:FreqMin cls="U">52359911.61496932</s:FreqMin>
+      </s:AllotFreq>
+   </s:Allotment>
+   <s:Assignment cls="U">
+      <s:Serial cls="U">USA::AS:7908a93857a240</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.209Z</s:EntryDateTime>
+      <s:EffectiveDateTime cls="U">2015-04-13T08:29:40.209Z</s:EffectiveDateTime>
+      <s:Configuration>
+         <s:ConfigID cls="U">6d36b9b0-a1d0-4e3c-8416-a8b0befda18c</s:ConfigID>
+      </s:Configuration>
+      <s:Station>
+         <s:StationID cls="U">3da3a5b2-aad0-4584-87cb-8f07628f1b3b</s:StationID>
+         <s:StationLoc/>
+      </s:Station>
+      <s:Link>
+         <s:LinkID cls="U">5ee17f58-80c2-40f1-bdf8-25959ddb7866</s:LinkID>
+         <s:StationConfig>
+            <s:Type cls="U">Transmit Only</s:Type>
+            <s:ConfigID cls="U">0374e1e0-70ce-4385-b313-67ae8e7f26fa</s:ConfigID>
+            <s:StationID cls="U">942a8236-dd60-4c19-bdc4-27ae3b3fee46</s:StationID>
+         </s:StationConfig>
+      </s:Link>
+   </s:Assignment>
+   <s:Satellite cls="U">
+      <s:Serial cls="U">USA::SA:eea18bb01b2b4f</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.347Z</s:EntryDateTime>
+   </s:Satellite>
+   <s:IntfReport cls="U">
+      <s:Serial cls="U">USA::IF:6c3102067fcf44</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.264Z</s:EntryDateTime>
+      <s:IntfStartDateTime cls="U">2015-04-13T08:29:40.280Z</s:IntfStartDateTime>
+      <s:VictimFreqMin cls="U">385155946.7367174</s:VictimFreqMin>
+   </s:IntfReport>
+   <s:IntfReport cls="U">
+      <s:Serial cls="U">USA::IF:d6afb7c29ac249</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.285Z</s:EntryDateTime>
+      <s:IntfStartDateTime cls="U">2015-04-13T08:29:40.288Z</s:IntfStartDateTime>
+      <s:VictimFreqMin cls="U">486501820.6165395</s:VictimFreqMin>
+   </s:IntfReport>
+   <s:JRFL cls="U">
+      <s:Serial cls="U">USA::JR:0c3a7ce1e89f46</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.427Z</s:EntryDateTime>
+      <s:JRFLEntry>
+         <s:ProtectionCode cls="U">Guarded</s:ProtectionCode>
+         <s:Justification cls="U">R##############################################################################################################################################################################################################################################################</s:Justification>
+      </s:JRFLEntry>
+   </s:JRFL>
+   <s:JRFL cls="U">
+      <s:Serial cls="U">USA::JR:511ef588370540</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.326Z</s:EntryDateTime>
+      <s:JRFLEntry>
+         <s:ProtectionCode cls="U">Protected</s:ProtectionCode>
+         <s:Justification cls="U">R##############################################################################################################################################################################################################################################################</s:Justification>
+      </s:JRFLEntry>
+   </s:JRFL>
+   <s:JRFL cls="U">
+      <s:Serial cls="U">USA::JR:0d360eb6d8ca44</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.433Z</s:EntryDateTime>
+      <s:JRFLEntry>
+         <s:ProtectionCode cls="U">Protected</s:ProtectionCode>
+         <s:Justification cls="U">R##############################################################################################################################################################################################################################################################</s:Justification>
+      </s:JRFLEntry>
+   </s:JRFL>
+   <s:FEDeployment cls="U">
+      <s:Serial cls="U">USA::FD:ad361f0f40694f</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.400Z</s:EntryDateTime>
+      <s:FERef cls="U">USA::CN:7b7222a32fe446</s:FERef>
+      <s:Type cls="U">Operating Area-Current</s:Type>
+   </s:FEDeployment>
+   <s:FEDeployment cls="U">
+      <s:Serial cls="U">USA::FD:9d6009a636a24b</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.199Z</s:EntryDateTime>
+      <s:FERef cls="U">USA::CN:a88311f7cbd846</s:FERef>
+      <s:Type cls="U">Route-Planned</s:Type>
+   </s:FEDeployment>
+   <s:Message cls="U">
+      <s:Serial cls="U">USA::MS:e4b3722761be44</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.404Z</s:EntryDateTime>
+      <s:DatasetRef cls="U">USA::JR:0c3a7ce1e89f46</s:DatasetRef>
+      <s:DatasetRef cls="U">USA::TX:21a7fb9f936d44</s:DatasetRef>
+      <s:DatasetRef cls="U">USA::JR:0d360eb6d8ca44</s:DatasetRef>
+      <s:DatasetRef cls="U">USA::TA:c320556de37c4e</s:DatasetRef>
+      <s:DatasetRef cls="U">USA::SR:d0871590932a4b</s:DatasetRef>
+   </s:Message>
+   <s:Message cls="U">
+      <s:Serial cls="U">USA::MS:86cba0bb8c314a</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:40.316Z</s:EntryDateTime>
+      <s:DatasetRef cls="U">USA::EX:bd3f8c4f52174f</s:DatasetRef>
+      <s:DatasetRef cls="U">USA::JR:511ef588370540</s:DatasetRef>
+      <s:DatasetRef cls="U">USA::AL:175f9473c4d349</s:DatasetRef>
+      <s:DatasetRef cls="U">USA::AL:ac21261419c749</s:DatasetRef>
+      <s:DatasetRef cls="U">USA::SA:eea18bb01b2b4f</s:DatasetRef>
+   </s:Message>
+</s:SSRF>

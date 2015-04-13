@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:SSRF xmlns:s="urn:us:gov:dod:standard:ssrf:3.1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <s:Transmitter cls="U">
+      <s:Serial cls="U">USA::TX:58da70a1a39f4c</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:31:27.490Z</s:EntryDateTime>
+      <s:Generic cls="U">No</s:Generic>
+   </s:Transmitter>
+</s:SSRF>

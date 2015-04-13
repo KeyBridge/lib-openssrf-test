@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:SSRF xmlns:s="urn:us:gov:dod:standard:ssrf:3.1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <s:IntfReport cls="U">
+      <s:Serial cls="U">USA::IF:1720ca75e83f45</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:30.408Z</s:EntryDateTime>
+      <s:IntfStartDateTime cls="U">2015-04-13T08:30:30.409Z</s:IntfStartDateTime>
+      <s:VictimFreqMin cls="U">353608355.6742978</s:VictimFreqMin>
+   </s:IntfReport>
+</s:SSRF>

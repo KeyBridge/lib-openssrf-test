@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:SSRF xmlns:s="urn:us:gov:dod:standard:ssrf:3.1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <s:Contact cls="U">
+      <s:Serial cls="U">USA::CN:aa92d205d1da4e</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:13.084Z</s:EntryDateTime>
+   </s:Contact>
+</s:SSRF>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:SSRF xmlns:s="urn:us:gov:dod:standard:ssrf:3.1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <s:ForceElement cls="U">
+      <s:Serial cls="U">USA::FE:1fe172b5a4d24a</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:19.220Z</s:EntryDateTime>
+      <s:Type cls="U">Platform Class</s:Type>
+      <s:Nomenclature>
+         <s:Name cls="U">R###################################################################################################</s:Name>
+      </s:Nomenclature>
+   </s:ForceElement>
+</s:SSRF>

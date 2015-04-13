@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:SSRF xmlns:s="urn:us:gov:dod:standard:ssrf:3.1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <s:Antenna cls="U">
+      <s:Serial cls="U">USA::AN:266a775e7e784a</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:29:50.355Z</s:EntryDateTime>
+      <s:Generic cls="U">Yes</s:Generic>
+      <s:AntType cls="U">Phased Array Ridged Waveguide</s:AntType>
+   </s:Antenna>
+</s:SSRF>

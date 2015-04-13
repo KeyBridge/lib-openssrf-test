@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:SSRF xmlns:s="urn:us:gov:dod:standard:ssrf:3.1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <s:Assignment cls="U">
+      <s:Serial cls="U">USA::AS:4598ac547e544d</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:30:06.158Z</s:EntryDateTime>
+      <s:EffectiveDateTime cls="U">2015-04-13T08:30:06.158Z</s:EffectiveDateTime>
+      <s:Configuration>
+         <s:ConfigID cls="U">070da34b-f44c-4729-a6ca-d62d1b409a83</s:ConfigID>
+      </s:Configuration>
+      <s:Station>
+         <s:StationID cls="U">969632a3-6a3d-4501-813b-ec1305dc383b</s:StationID>
+         <s:StationLoc/>
+      </s:Station>
+      <s:Link>
+         <s:LinkID cls="U">a485cb53-ba5d-4a44-936a-9527d0a9151e</s:LinkID>
+         <s:StationConfig>
+            <s:Type cls="U">Receive Only</s:Type>
+            <s:ConfigID cls="U">e65ea20b-3b3d-4570-8f1b-03a4b4bcad38</s:ConfigID>
+            <s:StationID cls="U">1c868c4d-e001-4643-a097-10015ec62c2c</s:StationID>
+         </s:StationConfig>
+      </s:Link>
+   </s:Assignment>
+</s:SSRF>

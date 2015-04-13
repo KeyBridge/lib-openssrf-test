@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<s:SSRF xmlns:s="urn:us:gov:dod:standard:ssrf:3.1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <s:TOA cls="U">
+      <s:Serial cls="U">USA::TA:ed9a902209894e</s:Serial>
+      <s:EntryDateTime cls="U">2015-04-13T08:31:00.760Z</s:EntryDateTime>
+      <s:Administration cls="U">R#################################################</s:Administration>
+      <s:FreqBand>
+         <s:FreqMin cls="U">146448496.5520418</s:FreqMin>
+         <s:FreqMax cls="U">61544922.85851081</s:FreqMax>
+      </s:FreqBand>
+   </s:TOA>
+</s:SSRF>

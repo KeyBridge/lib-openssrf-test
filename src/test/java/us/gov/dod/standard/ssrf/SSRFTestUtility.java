@@ -42,7 +42,8 @@ import us.gov.dod.standard.ssrf._3_1.metadata.domains.*;
 import us.gov.dod.standard.ssrf._3_1.metadata.lists.ListCCL;
 
 /**
- *
+ * SSRF Automated test utility.
+ * <p>
  * @author jesse
  */
 public class SSRFTestUtility {
